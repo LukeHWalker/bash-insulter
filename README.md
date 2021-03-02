@@ -1,5 +1,6 @@
 # bash-insulter
 Randomly insults the user when typing wrong command.
+Updated to add a counter for the amount of mistakes made and added an aggressive mode that insults every time.
 
 Change insults as needed :)
 
